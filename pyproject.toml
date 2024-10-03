@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "shimoda-ieice-trans2025"
+name = "bachelor-thesis-project"
 version = "0.1.0"
 description = ""
 authors = ["shimoshida <moshimoshimoshida@gmail.com>"]
 readme = "README.md"
-packages = [{include = "shimoda_ieice_trans2025"}]
+packages = [{include = "bachelor-thesis-project"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"

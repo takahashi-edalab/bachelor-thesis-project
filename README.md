@@ -1,5 +1,4 @@
-# thesis-project
-R6 学士特定課題プロジェクト チャネル配線問題.   
+# R6 学士特定課題プロジェクト チャネル配線問題
 `src/algos.py`に含まれる`proposed_algorithm`関数を改良してLeft Edgeに勝とう！
 
 
